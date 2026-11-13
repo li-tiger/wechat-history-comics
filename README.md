@@ -25,3 +25,11 @@ git clone https://github.com/li-tiger/wechat-history-comics.git "${CODEX_HOME:-$
 ![白鹅阿满角色设定](assets/aman-goose.png)
 
 完整流程见 [SKILL.md](SKILL.md)。
+
+## 项目案例
+
+**《在宋朝，不出门也能叫人送外卖？》**
+
+鸭逍遥系列历史条漫。封面和七屏正文合成一张预览图，按从左到右、从上到下的顺序阅读。
+
+[![宋朝外卖条漫案例](examples/song-dynasty-delivery.png)](examples/song-dynasty-delivery.png)
